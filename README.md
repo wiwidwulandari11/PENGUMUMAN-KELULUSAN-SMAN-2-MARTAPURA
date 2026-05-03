@@ -173,8 +173,8 @@
             {nama: "Achmad Dhani Maulana", nisn: "0078621768"}, {nama: "AHMAD MAULANA", nisn: "0071615390"}, {nama: "Amanda Devia Indriani", nisn: "0076386746"}, {nama: "CAHAYA INDRI", nisn: "0085262059"}, {nama: "Chairil Firdaus", nisn: "0089888638"}, {nama: "Faujiah", nisn: "0063526649"}, {nama: "M. Irwan", nisn: "0079486031"}, {nama: "M.RIPAI", nisn: "0069074196"}, {nama: "Muhamad Ramadani", nisn: "0068105336"}, {nama: "Muhammad Fikri Hidayat", nisn: "0079584969"}, {nama: "MUHAMMAD MAULANA", nisn: "0086839930"}, {nama: "Muhammad Noval", nisn: "3089802104"}, {nama: "Muhammad Ridho Alpiansyah", nisn: "0081133182"}, {nama: "MUHAMMAD RIFAN", nisn: "0086269053"}, {nama: "Muhammad Rifqi Fadillah", nisn: "3074222032"}, {nama: "MUHAMMAD RIZALDI NOOR", nisn: "0069691055"}, {nama: "MUHAMMAD RIZKI MAULANA", nisn: "0075097412"}, {nama: "NAFIAN KURNIAWAN", nisn: "0088389288"}, {nama: "NAPISAH", nisn: "0086785829"}, {nama: "NUR HAMIDAH", nisn: "0076433416"}, {nama: "Nurnazwa Sabila", nisn: "0071124106"}, {nama: "RAISSA ADISTY PUTRI", nisn: "3089699474"}, {nama: "Rendy Maulana", nisn: "0082687491"}, {nama: "Ridhoni", nisn: "0078900122"}, {nama: "Septia Ramadina", nisn: "0071726474"}, {nama: "SUPIANNOR", nisn: "0077182887"}
         ];
 
-        // KONFIGURASI WAKTU: 3 MEI 2026, 21:40 WITA
-        const targetDate = new Date("May 3, 2026 21:40:00").getTime();
+        // KONFIGURASI WAKTU: 4 MEI 2026, 12:00 WITA
+        const targetDate = new Date("May 4, 2026 12:00:00").getTime();
 
         function updateCountdown() {
             const now = new Date().getTime();
